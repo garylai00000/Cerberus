@@ -5,7 +5,7 @@
 </template>
 
 <script>
-const socket = require('socket.io-client')('https://cerberus.csie.fju.edu.tw:443')
+const socket = require('socket.io-client')('https://biggg.space:443')
 
 export default {
   data() {
